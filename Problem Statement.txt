@@ -1,0 +1,39 @@
+ Improving Mental Health Awareness in Teenagers
+Problem Statement: Mental health is a growing concern among teenagers, but many struggle to fi nd resources or feel comfortable talking about their mental health. How can we develop a tool, app, or program that helps improve mental health awareness, reduces stigma, and provides accessible resources for teenagers in schools?
+● Key Focus Areas:
+○ Develop an anonymous mental health support platform or app.
+○ Create a peer support network with guided conversations or professional resources.
+○ Design educational campaigns or interactive content that promotes self-care and mental well-being.
+
+
+Requirements
+1. Functional Requirements
+✅ User Authentication & Privacy
+
+Allow anonymous and registered user access.
+Implement role-based access control (RBAC) (User, Mentor, Admin).
+✅ Anonymous Support Platform
+
+Enable users to post concerns in a moderated community.
+AI-based chatbot assistant for guidance.
+Crisis support with emergency resources and professional contacts.
+✅ Peer Support Network
+
+Connect users with mentors or peers via text-based chat.
+Implement matching algorithms based on mental health topics.
+Enable scheduled support sessions (one-on-one mentoring).
+✅ Educational Resources
+
+Provide daily self-care tips via notifications.
+Include interactive content (quizzes, videos, blogs).
+Track user engagement with learning modules.
+✅ Admin & Moderation Panel
+
+Moderate discussions to prevent harmful content.
+Provide analytics on user activity and content effectiveness.
+2. Non-Functional Requirements
+⚡ Scalability - Support multiple concurrent users efficiently.
+🔒 Security & Privacy - Encrypt data, anonymize user identities, and implement role-based permissions.
+📱 Cross-Platform Compatibility - Web and mobile-friendly (Java Spring Boot backend, React/Android frontend).
+🚀 Performance - API response time under 500ms for smooth user experience.
+
